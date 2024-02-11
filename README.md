@@ -1,4 +1,4 @@
-Nikhil Raghuwanshi.png
+https://github.com/Nikhilraghuwanshi04/Nikhilraghuwanshi04/blob/main/Nikhil%20Raghuwanshi.png
 <h1 align="center">Hi 👋, I'm Nikhil Raghuwanshi</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
