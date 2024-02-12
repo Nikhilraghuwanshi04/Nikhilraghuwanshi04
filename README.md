@@ -1,4 +1,4 @@
-<img width="30px" src="Nikhil Raghuwanshi (2).png">
+<img width="1000px" height="500px" src="Nikhil Raghuwanshi (2).png">
 <h1 align="center">Hi 👋, I'm Nikhil Raghuwanshi</h1>
 <h3 align="center">I am currently pursing b tech (cse)</h3>
 
