@@ -3,7 +3,7 @@
 <h3 align="center">I am currently pursing b tech (cse)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilraghuwanshi04&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilraghuwanshi04" /> </p>
-<img src="code.gif">
+<img align="left" height="200px" width="200px" src="code.gif">
 
 - 🌱 I’m currently learning **java script and java**
 
