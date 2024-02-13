@@ -1,4 +1,4 @@
-<img width="1000px" height="300px" src="code2.gif">
+<img width="1000px" height="300px" src="NIKHIL RAGHUWANSHI (3).png">
 <h1 align="center">Hi , I'm Nikhil Raghuwanshi</h1>
 <h3 align="center">I am currently pursing b tech (cse)</h3>
 
