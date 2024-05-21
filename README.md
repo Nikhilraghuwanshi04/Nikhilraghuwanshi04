@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/nikhilr29711017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhilr29711017" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhil raghuwanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil raghuwanshi" height="30" width="40" /></a>
-<a href="https://instagram.com/__________nikku____________" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__________nikku____________" height="30" width="40" /></a>
+<a href="(https://www.instagram.com/_._._._.nikku._._._._/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._._._.nikku._._._._" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nikhil raghuwanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil raghuwanshi" height="30" width="40" /></a>
 </p>
 
